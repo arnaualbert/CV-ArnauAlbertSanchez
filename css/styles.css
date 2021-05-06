@@ -15,6 +15,11 @@ body {
     /* height="450" style="border:0;" */
 }
 
+.gallery {
+    width: 25%;
+    float: left;
+}
+
 
 /* Clear floats after the columns */
 
