@@ -237,8 +237,16 @@ a:active {
         width: 75%;
         padding-left: 25%;
     }
-    .header h1 {
-        font-size: 40px;
+    #header h1 {
+        font-size: 7vw;
+        width: 100%;
+    }
+    #header h2 {
+        font-size: 5vw;
+        width: 100%;
+    }
+    #footer p {
+        font-size: 5vw;
     }
     .column2 h3 {
         font-size: 3.2vw;
