@@ -223,7 +223,6 @@ a:active {
 @media screen and (max-width:700px) {
     .flex:not(#header) {
         display: block;
-        font-size: 3.7vw;
     }
     .column2 {
         width: 100%;
