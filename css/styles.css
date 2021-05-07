@@ -6,6 +6,7 @@
 
 body {
     margin: 0;
+    background: url(../img/marron-arena.jpg);
     background-size: cover;
 }
 
@@ -172,10 +173,15 @@ html {
 
 /*  section-1  */
 
-#section-1 {
-    background-color: #f5eef5;
-    /*     text-align: left; */
-}
+
+/* #section-1 {
+    background-color: #f5eef5; */
+
+
+/*     text-align: left; */
+
+
+/* } */
 
 #section-1 h1 {
     color: gray;
@@ -185,9 +191,10 @@ html {
 
 /*  section-2  */
 
-#section-2 {
+
+/* #section-2 {
     background-color: #faf5f3;
-}
+} */
 
 #section-2 h1 {
     text-align: center;
@@ -197,9 +204,10 @@ html {
 
 /*  section-3  */
 
-#section-3 {
+
+/* #section-3 {
     background-color: #f2f9f8;
-}
+} */
 
 #section-3 h1 {
     /*     font-size: 4vw; */
