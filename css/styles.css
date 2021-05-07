@@ -228,6 +228,10 @@ a:active {
     .column4 {
         width: 50%;
     }
+    img {
+        width: 75%;
+        padding-left: 25%;
+    }
     .header h1 {
         font-size: 40px;
     }
