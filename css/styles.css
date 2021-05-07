@@ -19,8 +19,9 @@ img {
     width: 25%;
 }
 
-.negro {
-    color: black;
+a[href^="mailto:"] {
+    font-family: sans-serif;
+    color: black !important;
 }
 
 
