@@ -235,7 +235,6 @@ a:active {
     }
     img {
         width: 75%;
-        padding-left: 25%;
     }
     #header h1 {
         font-size: 7vw;
@@ -261,6 +260,9 @@ a:active {
         font-size: 18px;
     }
     .column2 img {
+        width: 100%;
+    }
+    iframe {
         width: 100%;
     }
 }
